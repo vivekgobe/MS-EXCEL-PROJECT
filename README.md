@@ -6,10 +6,15 @@ This project is an interactive Excel Dashboard designed to visualize, analyze, a
 ✨ Features
 
 📈 Interactive Charts & Graphs – Dynamic visualizations for clear insights.
+
 📑 Automated Reports – Generates summaries and reports with a single click.
+
 🔄 Database Integration – Pulls data directly from DATABASE.xlsx.
+
 🖥️ Macro Automation – Uses VBA macros to speed up repetitive tasks.
+
 🔍 Filtering & Search Options – Quickly find specific data points.
+
 📊 KPIs & Metrics Tracking – Highlights key performance indicators.
 
 🎯 Project Objectives
